@@ -30,4 +30,3 @@ The project is designed to highlight proficiency in:
 
 ---
 
-## 📁 Project Structure
